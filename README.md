@@ -1,0 +1,2 @@
+# pku-gpa_calculator
+简单的pku GPA计算小工具，可以进行GPA和成绩之间的转换，以及根据已有GPA和学分计算达到目标GPA所需当前学期GPA和成绩
